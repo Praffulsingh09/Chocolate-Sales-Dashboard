@@ -24,3 +24,6 @@ This project not only enhanced my expertise in Power BI but also emphasized the 
 ![Power BI Project img 1](https://github.com/user-attachments/assets/f8efda87-604f-492f-ade4-f1d5a369d0a7)
 ![Power BI Project 1 img 2](https://github.com/user-attachments/assets/80a85966-8097-463e-a211-6a46d30b9586)
 ![Power BI Project 1 img 3](https://github.com/user-attachments/assets/f5d4e29d-10e5-4135-9e6a-a04074e7ea65)
+
+## License 
+This Project is licensed under the MIT license. check [here](https://github.com/Praffulsingh09/Chocolate-Sales-Dashboard/tree/main?tab=MIT-1-ov-file) for details. 
