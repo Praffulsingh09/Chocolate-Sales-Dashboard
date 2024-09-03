@@ -19,6 +19,8 @@ DAX,
 Data Modeling, 
 Visualizations
 
+See the full Dashboard here [App Power BI Link](https://app.powerbi.com/view?r=eyJrIjoiNjc0ZjIzMjItYmI2Ni00MDViLWI5NTMtYTdhMzFlMzlkMjRhIiwidCI6ImNkZTMwYTU2LTRlYWYtNDA3Ni05ZDc1LTBiZDkxZDhkNWIxZSJ9)
+
 This project not only enhanced my expertise in Power BI but also emphasized the importance of crafting dashboards that tell a clear data story while being highly interactive and user-friendly.
 
 ![Power BI Project img 1](https://github.com/user-attachments/assets/f8efda87-604f-492f-ade4-f1d5a369d0a7)
